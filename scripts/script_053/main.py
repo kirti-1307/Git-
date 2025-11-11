@@ -1,1 +1,1 @@
-print('answer is' + 10)
+print('answer is' , 10)
